@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/efateev57/swift-collectionView-catPuzzle-part1-ios-0217.png?columns=all)](https://waffle.io/efateev57/swift-collectionView-catPuzzle-part1-ios-0217?utm_source=badge)
 # Cat Pic Puzzle - Collection Views
 
 ![snapshot](https://s3.amazonaws.com/learn-verified/cat-puzzle-snapshot.png)
